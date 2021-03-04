@@ -1,0 +1,42 @@
+{
+  "short_name": "Tetrastylon",
+  "name": "The Tetrastyle Courtyard House. A Roman Domus with a Hybrid Cultural Conception.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "tetrastylon_touch_114.png",
+      "type": "image/png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "tetrastylon_touch_144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "tetrastylon_touch_152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "tetrastylon_touch_180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "tetrastylon_touch_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "tetrastylon_touch_196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    }
+  ],
+  "start_url": "."
+}
